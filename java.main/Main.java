@@ -8,3 +8,9 @@ class Feature{
 		return "new super feature";
 	}
 }
+
+class Feature2{
+	public static String newFeature(){
+		return "Wow";
+	}
+}
