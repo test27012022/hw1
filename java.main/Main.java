@@ -3,3 +3,14 @@ public class Main{
 		System.out.println("Hello JavaRush");
 	}
 }
+class Feature{
+	public static String add(){
+		return "new super feature";
+	}
+}
+
+class Feature2{
+	public static String newFeature(){
+		return "Wow";
+	}
+}
