@@ -11,6 +11,6 @@ class Feature{
 
 class Feature2{
 	public static String newFeature(){
-		return "Wow";
+		return "Wo";
 	}
 }
